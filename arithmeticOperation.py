@@ -33,7 +33,13 @@ print("a // b = ", hasil)
 
 
 # Prioritas operasi, operational precendence
-# Urutan prioritas (), **, *, /, %, //, +, -
+'''
+    Urutan prioritas 
+    1. ()
+    2. exponen **
+    3. *, /, %, //
+    4. +, -
+'''
 x = 3
 y = 2
 z = 4
